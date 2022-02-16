@@ -1,0 +1,3 @@
+- Hi, I’m Vince
+- I’m interested in learning some code
+- 🌱 I’m currently learning python, html and css?
