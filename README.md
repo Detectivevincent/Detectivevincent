@@ -1,3 +1,3 @@
 - Hi, I’m Vince
-- I’m interested in learning some code
-- 🌱 I’m currently learning python, html and css?
+- I’m interested in learning some code and trying to become web and servers engineer.
+- 🌱 I’m currently learning python, html+css, linux 
